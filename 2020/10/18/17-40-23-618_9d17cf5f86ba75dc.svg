@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 554 223" style="enable-background:new 0 0 554 223;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Courier';}
+	.st1{font-size:12px;}
+	.st2{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st3{font-family:'Helvetica';}
+	.st4{font-size:14px;}
+</style>
+<text transform="matrix(1 0 0 1 73.4565 87.6938)" class="st0 st1">00000</text>
+<text transform="matrix(1 0 0 1 145.4565 119.6938)" class="st0 st1">10000</text>
+<text transform="matrix(1 0 0 1 145.4565 103.6938)" class="st0 st1">01000</text>
+<text transform="matrix(1 0 0 1 145.4565 87.6938)" class="st0 st1">00100</text>
+<text transform="matrix(1 0 0 1 145.4565 71.6938)" class="st0 st1">00010</text>
+<text transform="matrix(1 0 0 1 145.4565 55.6938)" class="st0 st1">00001</text>
+<text transform="matrix(1 0 0 1 217.4565 159.6938)" class="st0 st1">11000</text>
+<text transform="matrix(1 0 0 1 217.4565 143.6938)" class="st0 st1">10100</text>
+<text transform="matrix(1 0 0 1 217.4565 127.6938)" class="st0 st1">10010</text>
+<text transform="matrix(1 0 0 1 217.4565 111.6938)" class="st0 st1">10001</text>
+<text transform="matrix(1 0 0 1 217.4565 95.6938)" class="st0 st1">01100</text>
+<text transform="matrix(1 0 0 1 217.4565 79.6938)" class="st0 st1">01010</text>
+<text transform="matrix(1 0 0 1 217.4565 63.6938)" class="st0 st1">01001</text>
+<text transform="matrix(1 0 0 1 217.4565 47.6938)" class="st0 st1">00110</text>
+<text transform="matrix(1 0 0 1 217.4565 31.6938)" class="st0 st1">00101</text>
+<text transform="matrix(1 0 0 1 217.4565 15.6938)" class="st0 st1">00011</text>
+<text transform="matrix(1 0 0 1 289.4565 159.6938)" class="st0 st1">11100</text>
+<text transform="matrix(1 0 0 1 289.4565 143.6938)" class="st0 st1">11010</text>
+<text transform="matrix(1 0 0 1 289.4565 127.6938)" class="st0 st1">11001</text>
+<text transform="matrix(1 0 0 1 289.4565 111.6938)" class="st0 st1">10110</text>
+<text transform="matrix(1 0 0 1 289.4565 95.6938)" class="st0 st1">10101</text>
+<text transform="matrix(1 0 0 1 289.4565 79.6938)" class="st0 st1">10011</text>
+<text transform="matrix(1 0 0 1 289.4565 63.6938)" class="st0 st1">01110</text>
+<text transform="matrix(1 0 0 1 289.4565 47.6938)" class="st0 st1">01101</text>
+<text transform="matrix(1 0 0 1 289.4565 31.6938)" class="st0 st1">01011</text>
+<text transform="matrix(1 0 0 1 289.4565 15.6938)" class="st0 st1">00111</text>
+<text transform="matrix(1 0 0 1 361.4565 119.6938)" class="st0 st1">11110</text>
+<text transform="matrix(1 0 0 1 361.4565 103.6938)" class="st0 st1">11101</text>
+<text transform="matrix(1 0 0 1 361.4565 87.6938)" class="st0 st1">11011</text>
+<text transform="matrix(1 0 0 1 361.4565 71.6938)" class="st0 st1">10111</text>
+<text transform="matrix(1 0 0 1 361.4565 55.6938)" class="st0 st1">01111</text>
+<text transform="matrix(1 0 0 1 433.4565 87.6938)" class="st0 st1">11111</text>
+<line class="st2" x1="57" y1="178" x2="491" y2="178"/>
+<text transform="matrix(1 0 0 1 87.8311 193.8906)" class="st3 st4">0</text>
+<text transform="matrix(1 0 0 1 159.8311 193.8906)" class="st3 st4">1</text>
+<text transform="matrix(1 0 0 1 231.8311 193.8906)" class="st3 st4">2</text>
+<text transform="matrix(1 0 0 1 303.8311 193.8906)" class="st3 st4">3</text>
+<text transform="matrix(1 0 0 1 375.8311 193.8906)" class="st3 st4">4</text>
+<text transform="matrix(1 0 0 1 447.8311 193.8906)" class="st3 st4">5</text>
+<text transform="matrix(1 0 0 1 174.7627 212.2012)" class="st3 st4">Hamming distance from 00000</text>
+</svg>
